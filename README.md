@@ -17,10 +17,10 @@ This NOtification page UI code component is designed to be easily integrated int
 
 ## Overview
 ### Screenshot
-![](/src/assets//preview.png);
+![](/src/assets//preview.png)
 ### Links
-- Solution URL: [Github repository](https://github.com/Hemazyn/Newsletter-sign-up)
-- Live Site URL: [Netlify Link](https://devemma-newsletter-sign-up.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/Notification-page)
+- Live Site URL: [Netlify Link](https://devemma-notification.netlify.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
